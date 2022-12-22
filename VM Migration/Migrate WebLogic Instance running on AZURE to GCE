@@ -1,0 +1,4 @@
+#Migrate WebLogic Instance running on AZURE to GCE
+#In our test case we are going to Migrate the WebLogic Application running onAZURE Cloud to Google cloud. we have used the migration applicane Velostrata.
+Velostrata gets enterprise applications running in Google Cloud within minutes, while data migrates transparently in the background. With Velostrata,
+enterprises can validate, run, and migrate applications into Google Cloud without rewriting them, modifying the image, or changing management processes. 
